@@ -1,0 +1,5 @@
+# install asdf `brew install asdf`
+# add awscli plugin `asdf plugin add awscli`
+# install required versions `asdf install`
+
+awscli 2.13.1

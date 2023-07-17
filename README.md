@@ -9,7 +9,6 @@ export AWS_ACCESS_KEY_ID="AWS_ACCESS_KEY_ID"
 export AWS_SECRET_ACCESS_KEY="AWS_SECRET_ACCESS_KEY"
 export AWS_SESSION_TOKEN="TOKEN"
 export AWS_REGION="us-east-1"
-export 
 ```
 3. `ansible all -i inventory -m ping -u ubuntu`
 4. `ansible all -i aws_ec2.yml -m ping -u ubuntu`
